@@ -99,7 +99,7 @@ added after review.
 
 ## Licence
 
-[To be chosen by the authors, e.g. MIT.]
+Code: MIT (see `LICENSE`). The result files in `results/` are derived from public data and may be reused with citation of the paper.
 
 ## Contact
 
